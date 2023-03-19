@@ -3,23 +3,23 @@
 # h5 About
 # p XORG is [an organization|a game] [playing|researching] [games as organizations|organizations as games].
 # p At the moment, [XORGian tentacles extend towards|our efforts focus on]:
-# p~list The development of the OXEL (organizational pixel) and a set of modular ‘cards’ that allow for multiple [games|organizations] to be played into existence.
-# p~list The support towards the development and implementation of the offer structure. To be used, among others, in ECSA’s ESP, unlike’s system and others.
+# p_list The development of the OXEL (organizational pixel) and a set of modular ‘cards’ that allow for multiple [games|organizations] to be played into existence.
+# p_list The support towards the development and implementation of the offer structure. To be used, among others, in ECSA’s ESP, unlike’s system and others.
 
 # h5 Records
 # p Our weekly sessions are archived and visible <a href="https://m.youtube.com/@economicspaceagency2214" target="_blank">here</a>.
 
 # h5 Members
 # p XORG members, in random order of appearance and various degrees of presence may include:
-# p~list Pekko Koskinen
-# p~list Martin Born
-# p~list Pablo Somonte Ruano
-# p~list Jakub Lanc
-# p~list Eva Gentner
-# p~list Linda Rocco
-# p~list Mikael Brygger
-# p~list Lio Mondano
-# p~list Rok Kranjc
+# p_list Pekko Koskinen
+# p_list Martin Born
+# p_list Pablo Somonte Ruano
+# p_list Jakub Lanc
+# p_list Eva Gentner
+# p_list Linda Rocco
+# p_list Mikael Brygger
+# p_list Lio Mondano
+# p_list Rok Kranjc
 
 # h5 Contact
 # p Get in touch: <a href="mailto:ask@xorg.how">ask@xorg.how</a>
