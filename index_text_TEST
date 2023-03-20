@@ -1,8 +1,8 @@
 # h5 About
 # p XORG is [an organization|a game] [playing|researching] [games as organizations|organizations as games].
 # p At the moment, [XORGian tentacles extend towards|our efforts focus on]:
-# p_list The development of the OXEL (organizational pixel) and a set of modular &#8220;cards&#8221; that allow for multiple [games|organizations] to be played into existence.
-# p_list The support towards the development and implementation of the offer structure. To be used, among others, in <a href="https://economicspace.agency/" target="_blank">ECSA</a>’s ESP, <a href="https://unlike.work/" target="_blank">unlike</a>’s system and others.
+# p_rand-0 The development of the OXEL (organizational pixel) and a set of modular &#8220;cards&#8221; that allow for multiple [games|organizations] to be played into existence.
+# p_rand-0 The support towards the development and implementation of the offer structure. To be used, among others, in <a href="https://economicspace.agency/" target="_blank">ECSA</a>’s ESP, <a href="https://unlike.work/" target="_blank">unlike</a>’s system and others.
 
 # h5 Records
 # p Our weekly sessions are archived and visible <a href="https://m.youtube.com/@economicspaceagency2214" target="_blank">here</a>.
@@ -11,15 +11,15 @@
 # p XORG members, in random order of appearance and various degrees of presence may include:
 
 # h5 Member list
-# p_rand Pekko Koskinen
-# p_rand Martin Born
-# p_rand Pablo Somonte Ruano
-# p_rand Jakub Lanc
-# p_rand Eva Gentner
-# p_rand Linda Rocco
-# p_rand Mikael Brygger
-# p_rand Lio Mondano
-# p_rand Rok Kranjc
+# p_rand-1 Pekko Koskinen
+# p_rand-1 Martin Born
+# p_rand-1 Pablo Somonte Ruano
+# p_rand-1 Jakub Lanc
+# p_rand-1 Eva Gentner
+# p_rand-1 Linda Rocco
+# p_rand-1 Mikael Brygger
+# p_rand-1 Lio Mondano
+# p_rand-1 Rok Kranjc
 
 # h5 Contact
 # p Get in touch: <a href="mailto:how@xorg.how">how@xorg.how</a>
