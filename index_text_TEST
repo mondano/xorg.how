@@ -9,15 +9,15 @@
 
 # h5 Members
 # p XORG members, in random order of appearance and various degrees of presence may include:
-# p_list Pekko Koskinen
-# p_list Martin Born
-# p_list Pablo Somonte Ruano
-# p_list Jakub Lanc
-# p_list Eva Gentner
-# p_list Linda Rocco
-# p_list Mikael Brygger
-# p_list Lio Mondano
-# p_list Rok Kranjc
+# p_rand Pekko Koskinen
+# p_rand Martin Born
+# p_rand Pablo Somonte Ruano
+# p_rand Jakub Lanc
+# p_rand Eva Gentner
+# p_rand Linda Rocco
+# p_rand Mikael Brygger
+# p_rand Lio Mondano
+# p_rand Rok Kranjc
 
 # h5 Contact
 # p Get in touch: <a href="mailto:how@xorg.how">how@xorg.how</a>
